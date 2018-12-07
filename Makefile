@@ -15,3 +15,6 @@ Day4: Day4.cpp Lib.h
 
 Day5: Day5.cpp Lib.h
 	g++ -o Day5 Day5.cpp -O3 -flto
+
+Day6: Day6.cpp Lib.h
+	g++ -o Day6 Day6.cpp -O3 -flto
